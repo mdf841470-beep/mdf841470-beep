@@ -1,16 +1,20 @@
-## Hi there 👋
+## # Hi, I'm a Data Analyst 👋
+### SQL | Power BI | Excel
 
-<!--
-**mdf841470-beep/mdf841470-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Data Analyst dedicated to turning raw data into actionable business insights. I specialize in data cleaning, structured querying, and interactive dashboard design.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Skills
+- **Data Analysis & Querying:** SQL
+- **Data Visualization:** Power BI, Microsoft Excel
+- **Core Competencies:** Retail Analytics, Sales Dashboards, Data Modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Featured Projects
+- 🛍️ **[Retail Sales Analysis (SQL)](https://github.com)** - Analyzing online retail trends using structured SQL queries.
+- 📊 **[Superstore Sales Dashboard (Power BI)](https://github.com)** - Creating interactive dashboards to track key performance metrics.
+- 🏁 **[Excel Vrinda Store Sales](https://github.com)** - Cleaned data and built dynamic charts for retail store insights.
+
+## 📫 Connect with me:
+- **LinkedIn:** [https://www.linkedin.com/in/md-faizan-6a25823b3?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- **Email:** [mdf841470@gmail.com]
+ there 👋
+
